@@ -12,7 +12,7 @@ Atualmente estou desenvolvendo projetos práticos para consolidar meus conhecime
 - ✅ Testes de APIs com Postman
 - ✅ Git/GitHub
 - ✅ Metodologias Ágeis (Scrum)
-- ✅ Automação de Testes (Cypress - nível introdutório)
+- ✅ Automação de Testes (Cypress)
 
 Também estudo boas práticas de qualidade de software e conceitos alinhados ao **ISTQB**, buscando evoluir continuamente como profissional de QA.
 
