@@ -18,8 +18,7 @@ Também estudo boas práticas de qualidade de software e conceitos alinhados ao 
 
 🎯 **Objetivo:** conquistar uma oportunidade como **QA Júnior**, contribuindo para a qualidade, confiabilidade e evolução dos produtos de software.
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pljm0&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](./profile/top-langs.svg)
 
 ##
 
