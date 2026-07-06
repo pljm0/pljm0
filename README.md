@@ -4,15 +4,15 @@ Sou formado em **Ciência da Computação** e atualmente estudo **Quality Assura
 
 Atualmente estou desenvolvendo projetos práticos para consolidar meus conhecimentos em:
 
-- ✅ Testes Manuais e Funcionais
-- ✅ Casos de Teste, Planos de Teste e Bug Reports
-- ✅ Testes Exploratórios
-- ✅ Técnicas de Teste (Particionamento de Equivalência e Análise de Valor Limite)
-- ✅ SQL para validação de dados
-- ✅ Testes de APIs com Postman
-- ✅ Git/GitHub
-- ✅ Metodologias Ágeis (Scrum)
-- ✅ Automação de Testes (Cypress)
+-  Testes Manuais e Funcionais
+-  Casos de Teste, Planos de Teste e Bug Reports
+-  Testes Exploratórios
+-  Técnicas de Teste (Particionamento de Equivalência e Análise de Valor Limite)
+-  SQL para validação de dados
+-  Testes de APIs com Postman
+-  Git/GitHub
+-  Metodologias Ágeis (Scrum)
+-  Automação de Testes (Cypress)
 
 Também estudo boas práticas de qualidade de software e conceitos alinhados ao **ISTQB**, buscando evoluir continuamente como profissional de QA.
 
