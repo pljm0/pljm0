@@ -13,6 +13,7 @@ Atualmente estou desenvolvendo projetos práticos para consolidar meus conhecime
 -  Git/GitHub
 -  Metodologias Ágeis (Scrum)
 -  Automação de Testes (Cypress)
+-  GitHub Actions (CI)
 
 Também estudo boas práticas de qualidade de software e conceitos alinhados ao **ISTQB**, buscando evoluir continuamente como profissional de QA.
 
