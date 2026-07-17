@@ -34,8 +34,8 @@ Também estudo boas práticas de qualidade de software e conceitos alinhados ao 
 
 | Repositório | Descrição | Stack |
 |-------------|-----------|-------|
-| [Portfólio - Saucedemo](https://github.com/pljm0/qa-studies/tree/main/projetos/Portfólio%20-%20Saucedemo) | Testes E2E automatizados | Cypress • JavaScript • GitHub Actions |
-| [Portfólio - ServeRest API](https://github.com/pljm0/qa-studies/tree/main/projetos/Portfólio%20-%20ServeRest%20API) | Testes API Rest | Postman • Newman • GitHub Actions • REST API • Json • HTML Report |
+| [Portfólio - Saucedemo](https://github.com/pljm0/qa-studies/tree/main/projetos/Portfólio%20-%20Saucedemo) | Testes Web | Cypress • JavaScript • GitHub Actions • Mochawesome |
+| [Portfólio - ServeRest API](https://github.com/pljm0/qa-studies/tree/main/projetos/Portfólio%20-%20ServeRest%20API) | Testes API Rest | Postman • Newman • GitHub Actions • REST API • HTML Report |
 
 ---
 
